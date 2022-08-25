@@ -2,13 +2,18 @@
   "name": "postcss-property-pair-sync-count",
   "version": "0.0.0",
   "description": "PostCSS plugin that makes value list of child proprety match parent property in length",
-  "keywords": ["postcss", "css", "postcss-plugin", "postcss-property-pair-sync-count"],
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "postcss-property-pair-sync-count"
+  ],
   "scripts": {
     "test": "jest --coverage && eslint ."
   },
   "author": "Laxsjo <rasmus.soderhielm@gmail.com>",
   "license": "MIT",
-  "repository": "laxsjo/postcss-property-pair-sync-count",
+  "repository": "Laxsjo/postcss-property-pair-sync-count",
   "engines": {
     "node": ">=12.0.0"
   },
@@ -30,7 +35,10 @@
       "node": true,
       "es6": true
     },
-    "extends": ["eslint:recommended", "plugin:jest/recommended"],
+    "extends": [
+      "eslint:recommended",
+      "plugin:jest/recommended"
+    ],
     "rules": {
       "jest/expect-expect": "off"
     }
