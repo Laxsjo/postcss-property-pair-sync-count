@@ -1,0 +1,7 @@
+{
+	"rules": {
+		"no-unused-vars": "warn",
+		"no-empty-character-class": "warn",
+		"no-empty-function": "warn"
+	}
+}
