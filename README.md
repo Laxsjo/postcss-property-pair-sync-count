@@ -1,3 +1,6 @@
+# Note
+I immediately gave up on this...
+
 # postcss-property-pair-sync-count
 
 [PostCSS] plugin that makes value list of child proprety match parent property in length.
